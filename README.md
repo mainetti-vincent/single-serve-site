@@ -1,7 +1,8 @@
 # Personal Portfolio
 
 ## Style Tiles 
-Homework assignment: Bring in style tiles for single-serve website. the following images are the style tiles that resolve this project with the creation of a single page portfolio website.
+Homework assignment: Due November 9th 2017
+Bring in style tiles for single-serve website. the following images are the style tiles that resolve this project with the creation of a single page portfolio website.
 
 ![style-tile](img/style-tile/style-tile.png)
 ![style-tile2](img/style-tile/style-tile2.png)
