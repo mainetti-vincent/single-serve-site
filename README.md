@@ -3,23 +3,38 @@
 ## Content
 ### Typography
 Optical Project 1
+
 Optical Project 2
+
 Poetry Booklet
+
 Text Specimen Booklet
+
 Text Poster Design
+
 Word Booklet
+
 ### Graphic Design
 Book Design
+
 Annual Report
+
 Logo & Branding Design
+
 Graphic Standards Manual 
+
 ### Freelance
 Cabot Street Books - Poster Design
+
 865 Boutique - Logo Design
+
 Montserrat Galleries - Poster Design
+
 ### Resume
 Text Resume
+
 Prinatable Media Resume
+
 ### About
 About Me
 
