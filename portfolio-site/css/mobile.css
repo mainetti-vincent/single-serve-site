@@ -1,0 +1,95 @@
+body {
+  font-family: arial, sans-serif;
+  line-height: 1.15;
+  font-size: 1em;
+  }
+
+/*-- Thin --*/
+@font-face {
+  font-family: raleway;
+  src: url('../fonts/raleway/raleway-thin-webfont.woff2') format('woff2'),
+       url('../fonts/raleway/raleway-thin-webfont.woff') format('woff');
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+  }
+
+/*-- Light --*/
+@font-face {
+  font-family: raleway;
+  src: url('../fonts/raleway/raleway-light-webfont.woff2') format('woff2'),
+       url('../fonts/raleway/raleway-light-webfont.woff') format('woff');
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+  }
+
+/*-- Medium --*/
+@font-face {
+  font-family: raleway;
+  src: url('../fonts/raleway/raleway-medium-webfont.woff2') format('woff2'),
+       url('../fonts/raleway/raleway-medium-webfont.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+  }
+
+body {
+  margin-left: 5%;
+}
+
+
+h1 {
+  font: 300 3.6em/1.2 "Raleway", sans-serif;
+  color: #333;
+  margin-bottom: 0;
+  }
+
+ul {
+  font: 200 1em/1.15 "Raleway", sans-serif;
+  margin-left: 5%;
+  }
+
+nav a {
+  color: #999;
+  text-decoration: none;
+  margin-right: 1.5em;
+  }
+
+nav a:hover {
+  color: #333;
+  }
+
+nav li {
+  display: inline;
+  }
+
+h2 {
+  font: 300 2em/1.2 "Raleway", sans-serif;
+  color: #999;
+  margin-top: 3.5em;
+  }
+
+  .sub {
+    font: 100 2.4em/1.2 "Raleway", sans-serif;
+    margin-top: 0;
+    margin-Left: 5%;
+    }
+
+h3 {
+  font: 100 1.25em/1.2 "Raleway", sans-serif;
+  color: #333;
+  }
+
+p {
+  font: 200 1em/1.15 "Raleway", sans-serif;
+  max-width: 75%;
+  }
+
+img.about {
+  float: left;
+  margin-right: 5%;
+  margin-left: -5%;
+  }
+
+
