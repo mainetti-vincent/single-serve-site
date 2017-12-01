@@ -33,9 +33,15 @@ body {
   font-style: normal;
   font-display: swap;
   }
+  
+img {
+	max-width: 100%;
+	}
 
 body {
-  margin-left: 5%;
+	width: 90%;
+	max-width: 60em;
+  margin: 0 auto;
 }
 
 
@@ -67,7 +73,7 @@ nav li {
 h2 {
   font: 300 2em/1.2 "Raleway", sans-serif;
   color: #999;
-  margin-top: 3.5em;
+  margin-top: 2.5em;
   }
 
   .sub {
@@ -83,13 +89,28 @@ h3 {
 
 p {
   font: 200 1em/1.15 "Raleway", sans-serif;
-  max-width: 75%;
+/*   max-width: 75%; */
   }
 
 img.about {
   float: left;
   margin-right: 5%;
+  margin-bottom: 5%;
   margin-left: -5%;
   }
+  
+  img.cover-photo {
+  float: left;
+  margin-right: 5%;
+  margin-bottom: 5%;
+  margin-left: -5%;
+  }
+  
+div.small-img {
+	clear: both;
+}
 
+/*-- Media Query --*/
+
+@media 
 
