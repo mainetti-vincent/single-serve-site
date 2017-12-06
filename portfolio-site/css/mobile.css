@@ -55,7 +55,11 @@ ul {
   font: 200 1em/1.15 "Raleway", sans-serif;
   margin-left: 5%;
   }
-
+nav ul {
+	list-style: none; 
+	padding-left: 0;
+	}
+	
 nav a {
   color: #999;
   text-decoration: none;
@@ -66,14 +70,11 @@ nav a:hover {
   color: #333;
   }
 
-nav li {
-  display: inline;
-  }
-
 h2 {
   font: 300 2em/1.2 "Raleway", sans-serif;
   color: #999;
   margin-top: 2.5em;
+  clear: both;
   }
 
   .sub {
@@ -88,19 +89,17 @@ h3 {
   }
 
 p {
-  font: 200 1em/1.15 "Raleway", sans-serif;
+  font: 200 1em/1.45 "Raleway", sans-serif;
 /*   max-width: 75%; */
   }
 
 img.about {
-  float: left;
   margin-right: 5%;
   margin-bottom: 5%;
   margin-left: -5%;
   }
   
-  img.cover-photo {
-  float: left;
+  img.gif {
   margin-right: 5%;
   margin-bottom: 5%;
   margin-left: -5%;
@@ -112,5 +111,21 @@ div.small-img {
 
 /*-- Media Query --*/
 
-@media 
+@media (min-width: 35em) {
+
+nav li {
+  display: inline;
+  }
+  
+}
+
+
+@media (min-width: 48em) {
+
+img.about,
+ img.gif {
+  float: left;
+  }
+
+}
 
