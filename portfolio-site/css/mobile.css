@@ -110,7 +110,7 @@ div.small-img {
 }
 
 .border {
-	border: 1px solid #000;
+	border: solid 1px #000;
 }
 
 /*-- Media Query --*/
