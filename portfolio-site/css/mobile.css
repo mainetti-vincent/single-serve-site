@@ -109,6 +109,10 @@ div.small-img {
 	clear: both;
 }
 
+.border {
+	border: 1px solid #000;
+}
+
 /*-- Media Query --*/
 
 @media (min-width: 35em) {
