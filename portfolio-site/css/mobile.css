@@ -94,12 +94,14 @@ p {
   }
 
 img.about {
+	border: solid 1px #000;
   margin-right: 5%;
   margin-bottom: 5%;
   margin-left: -5%;
   }
   
   img.gif {
+	  border: solid 1px #000;
   margin-right: 5%;
   margin-bottom: 5%;
   margin-left: -5%;
